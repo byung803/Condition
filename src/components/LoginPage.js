@@ -5,7 +5,7 @@ import { startLogin } from '../actions/auth';
 export const LoginPage = ({ startLogin }) => (
     <div className="box-layout">
         <div className="box-layout__box">
-            <h1 className="box-layout__title">Condition Regulator</h1>
+            <h1 className="box-layout__title">Condition Forecast</h1>
             <p>Track your condition and Change your life.</p>
             <button
                 className="button"
